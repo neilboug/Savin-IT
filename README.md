@@ -107,23 +107,30 @@ Visit http://localhost:3000
 ## 📸 Screenshots
 
 - Dashboard overview
+<p align="center">
+  <img src="README-files/dashboard-page-dark.png" width="600" alt="Savin'IT – Dashboard Page (Dark Mode)">
+</p>
 
 - Budget setup & transaction logging
+<p align="center">
+  <img src="README-files/my-budgets-alter-card-page-dark.png" width="600" alt="Savin'IT – Budget Editing Page">
+</p>
 
 - Learnin’IT reading section
+<p align="center">
+  <img src="README-files/learn-investing-page-dark.png" width="600" alt="Savin'IT – Learnin'IT Financial Literacy Page">
+</p>
 
-
+---
 
 ## 🗺️ Architecture Diagram
+<p align="center">
+  <img src="README-files/Component Diagram.png" width="600" alt="Component Diagram of Application">
+</p>
 
-
+---
 
 ## 🧱 Database Schema
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="README-files/ER-Diagram.png" width="600" alt="Entity Relationship Diagram (ERD)">
+</p>
