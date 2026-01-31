@@ -36,7 +36,7 @@
     "clsx": "^2.0.0",
     "date-fns": "^3.6.0",
     "lucide-react": "^0.368.0",
-    "next": "^14.2.33",
+    "next": "^16.1.6",
     "next-auth": "^5.0.0-beta.28",
     "next-themes": "^0.2.1",
     "node-cron": "^3.0.3",
